@@ -2,6 +2,7 @@
     background-color: var(--bg-color);
     background-image: var(--bg-image);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
     background-attachment: fixed;
     font-family: var(--main-font-family);
@@ -85,7 +86,7 @@
 }
 
 .header__theme-menu-button:hover {
-    outline: 1px solid var(--button-color);
+    outline: 1px solid var(--button-color-rgb);
 }
 
 .header__theme-menu-button:focus {
@@ -144,28 +145,28 @@
     gap: 20px;
 }
 
-.main__section--columns {
+.main__section-reasons {
     grid-template-columns: 315px 1fr;
     row-gap: 20px;
 }
 
-    .main__section--columns .main__section-title {
+    .main__section-reasons .main__section-title {
         grid-row: span 2;
     }
 
-.main__section--three-columns {
+.main__section-reducings {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto auto;
     column-gap: 20px;
     row-gap: 20px;
 }
 
-    .main__section--three-columns .main__section-title {
+    .main__section-reducings .main__section-title {
         grid-column: span 3;
         width: 30%;
     }
 
-.main__section--two-columns {
+.main__section-advice {
     grid-template-columns: 315px 1fr;
 }
 
@@ -296,15 +297,15 @@
         gap: 157px;
     }
 
-    .main__section--columns {
+    .main__section-reasons {
         grid-template-columns: 236px 1fr;
     }
 
-    .main__section--three-columns {
+    .main__section-reducings {
         grid-template-columns: 1fr;
     }
 
-        .main__section--three-columns .main__section-title {
+        .main__section-reducings .main__section-title {
             grid-column: span 1;
         }
 
@@ -312,7 +313,7 @@
         font-size: clamp(116px, 32px + 20vw, 120px);
     }
 
-    .main__section--two-columns {
+    .main__section-advice {
         grid-template-columns: 236px 1fr;
     }
 }
@@ -358,21 +359,21 @@
         gap: 50px;
     }
 
-    .main__section--columns {
+    .main__section-reasons {
         row-gap: 24px;
     }
 
-    .main__section--three-columns {
+    .main__section-reducings {
         width: 100%;
         row-gap: 24px;
     }
 
-    .main__section--columns,
-    .main__section--two-columns {
+    .main__section-reasons,
+    .main__section-advice {
         grid-template-columns: 1fr;
     }
 
-    .main__section--three-columns .main__section-title {
+    .main__section-reducings .main__section-title {
         width: 100%;
     }
 

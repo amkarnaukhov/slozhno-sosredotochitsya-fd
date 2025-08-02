@@ -8,6 +8,7 @@
     --decorated-color: #ff0070;
     --section-text-color: var(--accent-color);
     --button-color: var(--accent-color);
+    --button-color-rgb: #FF007066;
     --text-color: #f1b2ce;
 }
 
@@ -24,4 +25,8 @@
         --button-color: var(--accent-color);
         --text-color: #f1b2ce;
     }
+}
+
+.theme-dark .rec {
+    display: block;
 }

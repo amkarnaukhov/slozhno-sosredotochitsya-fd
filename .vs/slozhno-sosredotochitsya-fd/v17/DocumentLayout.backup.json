@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "light.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css",
               "RelativeDocumentMoniker": "styles\\light.css",
@@ -60,15 +60,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "variables.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\variables.css",
               "RelativeDocumentMoniker": "styles\\variables.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\variables.css",
               "RelativeToolTip": "styles\\variables.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-31T18:51:26.119Z"
+              "WhenOpened": "2025-07-31T18:51:26.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "dark.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
               "RelativeDocumentMoniker": "styles\\dark.css",
@@ -102,7 +103,7 @@
               "RelativeDocumentMoniker": "styles\\style.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\style.css",
               "RelativeToolTip": "styles\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAOkAAAAAAAAAAADgvwoBAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-31T18:38:31.633Z",
               "EditorCaption": ""
@@ -121,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -129,7 +130,8 @@
               "RelativeToolTip": "index.html",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-07-25T13:44:24.97Z"
+              "WhenOpened": "2025-07-25T13:44:24.97Z",
+              "EditorCaption": ""
             }
           ]
         }
