@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\light.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
@@ -30,19 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "light.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css",
               "RelativeDocumentMoniker": "styles\\light.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\light.css",
               "RelativeToolTip": "styles\\light.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-31T18:51:12.569Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dark.css",
+              "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
+              "RelativeDocumentMoniker": "styles\\dark.css",
+              "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
+              "RelativeToolTip": "styles\\dark.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-31T18:50:45.195Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -58,33 +72,20 @@
               "RelativeDocumentMoniker": "styles\\variables.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\variables.css",
               "RelativeToolTip": "styles\\variables.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-31T18:51:26.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dark.css",
-              "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
-              "RelativeDocumentMoniker": "styles\\dark.css",
-              "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\dark.css",
-              "RelativeToolTip": "styles\\dark.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-31T18:50:45.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\style.css",
               "RelativeDocumentMoniker": "styles\\style.css",
               "ToolTip": "C:\\Users\\alexey\\source\\repos\\slozhno-sosredotochitsya-fd\\styles\\style.css",
               "RelativeToolTip": "styles\\style.css",
-              "ViewState": "AgIAAFkBAAAAAAAAAAAvwCcBAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv1gAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-31T18:38:31.633Z",
               "EditorCaption": ""
